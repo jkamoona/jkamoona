@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm PJ🧑🏾‍💻</h2>
+# <h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello, I'm Jude🧑🏾‍💻</h2>
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 
