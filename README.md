@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Software Engineer</h3>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pj-samuels/" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jude-kamoona/" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:osamuels@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
  </div>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Hi, I'm a computer science major at Boston University (Spring '23)
 - 💻 I interned at Coginitvo Consulting an Artificial Intelligence startup in Sydney as a software engineer (Spring '22)
-- 💻 I interned for 3DuF a CAD microfluidic tool at CIDAR lab a frontend engineer (Summer '21) 
+- 💻 I interned for 3DuF a CAD microfluidictool at CIDAR lab a frontend engineer (Summer '21) 
 - 🌱 I’m learning **Animation developement and Backend databases** at this moment.
 - 👀 I’m looking to **continue my software engineering career** as a full-stack intern
 - 📫 Feel free to ask anything [here](mailto:jkamoona@bu.edu)
