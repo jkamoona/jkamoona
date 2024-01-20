@@ -27,11 +27,10 @@ Here are some ideas to get you started:
  <br/>
 
 
-Hi, I'm a computer science major at Boston University (Spring '23)
-- 💻 I interned at Coginitvo Consulting an Artificial Intelligence startup in Sydney as a software engineer (Spring '22)
-- 💻 I interned for 3DuF a CAD microfluidictool at CIDAR lab a frontend engineer (Summer '21) 
-- 🌱 I’m learning **Animation developement and Backend databases** at this moment.
-- 👀 I’m looking to **continue my software engineering career** as a full-stack intern
+Hi, I'm a computer engineering graduate for Boston University (Spring '23)
+- 💻 I interned at an Artificial Intelligence startup in Sydney as a AI intern. (Spring '22)
+- 🌱 I’m learning **Animation developement** at this moment.
+- 👀 I’m looking to **kickstart my software engineering career** as a full-stack engineer. 
 - 📫 Feel free to ask anything [here](mailto:jkamoona@bu.edu)
 
 <div align="center">
