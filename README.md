@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jude-kamoona/" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:osamuels@bu.edu" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:judekamoona@gmail.com" target="_blank" rel="noopener noreferrer" ><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/>
  </div>
  <br/>
